@@ -7,3 +7,5 @@ agora to editando pra comitar, vamos ver se funciona neh :)
 agora vai ser o segundo commit, e esse vai ter site http://suamaeesuatia.com.br
 
 gostou do curso? me da dinheiro :)
+
+EDIÇÃO DEPOISDE SUBIR
