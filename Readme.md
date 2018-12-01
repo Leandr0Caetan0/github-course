@@ -9,3 +9,7 @@ agora vai ser o segundo commit, e esse vai ter site http://suamaeesuatia.com.br
 gostou do curso? me da dinheiro :)
 
 EDIÇÃO DEPOISDE SUBIR
+
+editando para testar Git stash
+
+editando para testar tags
